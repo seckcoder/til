@@ -20,7 +20,11 @@ thread:
         Another weird stuff is that Erlang and Golang claims that their thread is preemptive. That needs further research.
 
 
-Reference:
+References:
   http://www.tldp.org/FAQ/Threads-FAQ/Types.html
   http://stackoverflow.com/a/19518207/1523768
   http://stackoverflow.com/a/19855296/1523768
+  http://jlouisramblings.blogspot.com/2013/01/how-erlang-does-scheduling.html
+  http://www.weibo.com/1915508822/Af6BfFMp3?from=page_1005051915508822_profile&wvr=6&mod=weibotime&type=comment
+  http://stackoverflow.com/questions/3324643/processes-threads-green-threads-protothreads-fibers-coroutines-whats-the
+  http://programmers.stackexchange.com/questions/254140/is-there-a-difference-between-fibers-coroutines-and-green-threads-and-if-that-i
