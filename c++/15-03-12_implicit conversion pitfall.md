@@ -1,7 +1,7 @@
 
 # Pitfall 1
 
-```lang:cpp
+```cpp
 
 vector<int> vec;
 for (int i = 0; i < vec.size()-1; i++) {
