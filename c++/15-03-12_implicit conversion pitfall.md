@@ -10,5 +10,5 @@ for (int i = 0; i < vec.size()-1; i++) {
 
 ```
 
-For above code, vec.size() returned an unsigned integer. As a result,
+For above code, vec.size() returns an unsigned integer. As a result,
 vec.size()-1 > 0 . So there will be segmentation fault here.
